@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: 718717ee1b5f88d408725ee6af960414
+timeCreated: 1468227855
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nohood-cape-plate_sprite_walk_strip30 (1)_0
+    21300002: nohood-cape-plate_sprite_walk_strip30 (1)_1
+    21300004: nohood-cape-plate_sprite_walk_strip30 (1)_2
+    21300006: nohood-cape-plate_sprite_walk_strip30 (1)_3
+    21300008: nohood-cape-plate_sprite_walk_strip30 (1)_4
+    21300010: nohood-cape-plate_sprite_walk_strip30 (1)_5
+    21300012: nohood-cape-plate_sprite_walk_strip30 (1)_6
+    21300014: nohood-cape-plate_sprite_walk_strip30 (1)_7
+    21300016: nohood-cape-plate_sprite_walk_strip30 (1)_8
+    21300018: nohood-cape-plate_sprite_walk_strip30 (1)_9
+    21300020: nohood-cape-plate_sprite_walk_strip30 (1)_10
+    21300022: nohood-cape-plate_sprite_walk_strip30 (1)_11
+    21300024: nohood-cape-plate_sprite_walk_strip30 (1)_12
+    21300026: nohood-cape-plate_sprite_walk_strip30 (1)_13
+    21300028: nohood-cape-plate_sprite_walk_strip30 (1)_14
+    21300030: nohood-cape-plate_sprite_walk_strip30 (1)_15
+    21300032: nohood-cape-plate_sprite_walk_strip30 (1)_16
+    21300034: nohood-cape-plate_sprite_walk_strip30 (1)_17
+    21300036: nohood-cape-plate_sprite_walk_strip30 (1)_18
+    21300038: nohood-cape-plate_sprite_walk_strip30 (1)_19
+    21300040: nohood-cape-plate_sprite_walk_strip30 (1)_20
+    21300042: nohood-cape-plate_sprite_walk_strip30 (1)_21
+    21300044: nohood-cape-plate_sprite_walk_strip30 (1)_22
+    21300046: nohood-cape-plate_sprite_walk_strip30 (1)_23
+    21300048: nohood-cape-plate_sprite_walk_strip30 (1)_24
+    21300050: nohood-cape-plate_sprite_walk_strip30 (1)_25
+    21300052: nohood-cape-plate_sprite_walk_strip30 (1)_26
+    21300054: nohood-cape-plate_sprite_walk_strip30 (1)_27
+    21300056: nohood-cape-plate_sprite_walk_strip30 (1)_28
+    21300058: nohood-cape-plate_sprite_walk_strip30 (1)_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 17.5}
+        - {x: 27.5, y: 34.5}
+        - {x: 25.5, y: 36.5}
+        - {x: 1.5, y: 36.5}
+        - {x: -23.5, y: -10.5}
+        - {x: -23.5, y: -29.5}
+        - {x: 6.5, y: -32.5}
+        - {x: 27.5, y: -32.5}
+        - {x: 31.5, y: -31.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 26.5, y: -13.5}
+        - {x: 31.5, y: 6.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.76667, y: 36.5}
+        - {x: -0.23332977, y: 36.5}
+        - {x: -23.23333, y: -6.5}
+        - {x: -23.23333, y: -32.5}
+        - {x: 31.76667, y: -32.5}
+        - {x: 31.76667, y: 19.5}
+        - {x: 27.76667, y: 34.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.0333405, y: 36.5}
+        - {x: -10.96666, y: 11.5}
+        - {x: -13.96666, y: 0.5}
+        - {x: -21.96666, y: -18.5}
+        - {x: -22.96666, y: -21.5}
+        - {x: -22.96666, y: -27.5}
+        - {x: -16.96666, y: -28.5}
+        - {x: 0.033340454, y: -32.5}
+        - {x: 33.03334, y: -32.5}
+        - {x: 33.03334, y: 27.5}
+        - {x: 29.03334, y: 36.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.1999817, y: 36.5}
+        - {x: -23.199982, y: -10.5}
+        - {x: -23.199982, y: -31.5}
+        - {x: -7.1999817, y: -32.5}
+        - {x: 32.80002, y: -32.5}
+        - {x: 32.80002, y: 28.5}
+        - {x: 28.800018, y: 36.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.433319, y: 36.5}
+        - {x: -23.43332, y: -7.5}
+        - {x: -23.43332, y: -32.5}
+        - {x: 31.56668, y: -32.5}
+        - {x: 31.56668, y: 36.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.833344, y: 34.5}
+        - {x: 24.833344, y: 36.5}
+        - {x: -6.1666565, y: 36.5}
+        - {x: -20.166656, y: 19.5}
+        - {x: -23.166656, y: 7.5}
+        - {x: -23.166656, y: -24.5}
+        - {x: -11.1666565, y: -32.5}
+        - {x: 6.8333435, y: -32.5}
+        - {x: 26.833344, y: -18.5}
+        - {x: 34.833344, y: 3.5}
+        - {x: 34.833344, y: 28.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.100037, y: 36.5}
+        - {x: -4.8999634, y: 36.5}
+        - {x: -22.899963, y: 7.5}
+        - {x: -22.899963, y: -23.5}
+        - {x: -10.899963, y: -32.5}
+        - {x: 18.100037, y: -32.5}
+        - {x: 26.100037, y: -29.5}
+        - {x: 35.100037, y: -6.5}
+        - {x: 35.100037, y: 29.5}
+      - - {x: -33.899963, y: 19.5}
+        - {x: -30.899963, y: 20.5}
+        - {x: -30.899963, y: 25.5}
+        - {x: -32.899963, y: 27.5}
+        - {x: -33.899963, y: 27.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.8667, y: 36.5}
+        - {x: 2.8666992, y: 36.5}
+        - {x: -23.1333, y: 13.5}
+        - {x: -23.1333, y: -16.5}
+        - {x: -17.1333, y: -32.5}
+        - {x: 12.866699, y: -32.5}
+        - {x: 23.8667, y: -28.5}
+        - {x: 35.8667, y: 5.5}
+        - {x: 35.8667, y: 28.5}
+        - {x: 19.8667, y: 35.5}
+      - - {x: -34.1333, y: 19.5}
+        - {x: -31.1333, y: 20.5}
+        - {x: -31.1333, y: 25.5}
+        - {x: -33.1333, y: 27.5}
+        - {x: -34.1333, y: 27.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.63336, y: 36.5}
+        - {x: -10.366638, y: 36.5}
+        - {x: -23.366638, y: 30.5}
+        - {x: -23.366638, y: -22.5}
+        - {x: -11.366638, y: -32.5}
+        - {x: -0.36663818, y: -32.5}
+        - {x: 17.633362, y: -25.5}
+        - {x: 30.633362, y: -0.5}
+        - {x: 34.63336, y: 14.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.0999756, y: 36.5}
+        - {x: -23.099976, y: 14.5}
+        - {x: -23.099976, y: -17.5}
+        - {x: -17.099976, y: -32.5}
+        - {x: 9.900024, y: -32.5}
+        - {x: 20.900024, y: -26.5}
+        - {x: 34.900024, y: 5.5}
+        - {x: 34.900024, y: 28.5}
+        - {x: 28.900024, y: 36.5}
+      - - {x: -34.099976, y: 19.5}
+        - {x: -31.099976, y: 20.5}
+        - {x: -31.099976, y: 25.5}
+        - {x: -33.099976, y: 27.5}
+        - {x: -34.099976, y: 27.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.833313, y: 36.5}
+        - {x: -30.833313, y: 1.5}
+        - {x: -30.833313, y: -32.5}
+        - {x: 35.166687, y: -32.5}
+        - {x: 35.166687, y: 2.5}
+        - {x: 23.166687, y: 36.5}
+      - - {x: -33.833313, y: 19.5}
+        - {x: -30.833313, y: 20.5}
+        - {x: -30.833313, y: 25.5}
+        - {x: -32.833313, y: 27.5}
+        - {x: -33.833313, y: 27.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.0666504, y: 36.5}
+        - {x: -31.06665, y: -0.5}
+        - {x: -31.06665, y: -32.5}
+        - {x: 35.93335, y: -32.5}
+        - {x: 35.93335, y: 1.5}
+        - {x: 18.93335, y: 36.5}
+      - - {x: -34.06665, y: -6.5}
+        - {x: -31.06665, y: -5.5}
+        - {x: -31.06665, y: -1.5}
+        - {x: -33.06665, y: 0.5}
+        - {x: -34.06665, y: 0.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.700073, y: 36.5}
+        - {x: -6.2999268, y: 36.5}
+        - {x: -32.299927, y: -0.5}
+        - {x: -32.299927, y: -23.5}
+        - {x: -21.299927, y: -32.5}
+        - {x: 27.700073, y: -32.5}
+        - {x: 34.700073, y: -21.5}
+        - {x: 34.700073, y: 7.5}
+        - {x: 19.700073, y: 34.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.966736, y: 36.5}
+        - {x: -4.033264, y: 36.5}
+        - {x: -31.033264, y: -0.5}
+        - {x: -31.033264, y: -32.5}
+        - {x: 34.966736, y: -32.5}
+        - {x: 34.966736, y: 9.5}
+        - {x: 20.966736, y: 34.5}
+      - - {x: -34.033264, y: -6.5}
+        - {x: -31.033264, y: -5.5}
+        - {x: -31.033264, y: -1.5}
+        - {x: -33.033264, y: 0.5}
+        - {x: -34.033264, y: 0.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.733398, y: 36.5}
+        - {x: -5.2666016, y: 36.5}
+        - {x: -31.266602, y: 0.5}
+        - {x: -31.266602, y: -32.5}
+        - {x: 34.7334, y: -32.5}
+        - {x: 35.7334, y: -17.5}
+        - {x: 35.7334, y: 1.5}
+        - {x: 20.733398, y: 34.5}
+      - - {x: -34.2666, y: -6.5}
+        - {x: -31.266602, y: -5.5}
+        - {x: -31.266602, y: -1.5}
+        - {x: -33.2666, y: 0.5}
+        - {x: -34.2666, y: 0.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -17.5}
+        - {x: -23.5, y: -31.5}
+        - {x: 0.5, y: -34.5}
+        - {x: 27.5, y: -34.5}
+        - {x: 27.5, y: 8.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 19.5, y: 34.5}
+        - {x: -3.5, y: 34.5}
+        - {x: -30.5, y: 1.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.766724, y: 34.5}
+        - {x: 4.7667236, y: 30.5}
+        - {x: -8.233276, y: 16.5}
+        - {x: -30.233276, y: -4.5}
+        - {x: -30.233276, y: -13.5}
+        - {x: -23.233276, y: -30.5}
+        - {x: -7.2332764, y: -34.5}
+        - {x: 27.766724, y: -34.5}
+        - {x: 27.766724, y: 13.5}
+        - {x: 20.766724, y: 34.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.033447, y: 34.5}
+        - {x: -0.96655273, y: 34.5}
+        - {x: -28.966553, y: -0.5}
+        - {x: -28.966553, y: -18.5}
+        - {x: -22.966553, y: -31.5}
+        - {x: -5.9665527, y: -34.5}
+        - {x: 27.033447, y: -34.5}
+        - {x: 28.033447, y: -31.5}
+        - {x: 28.033447, y: 6.5}
+        - {x: 25.033447, y: 32.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.800049, y: 34.5}
+        - {x: -3.1999512, y: 34.5}
+        - {x: -29.199951, y: 3.5}
+        - {x: -29.199951, y: -17.5}
+        - {x: -23.199951, y: -31.5}
+        - {x: -11.199951, y: -34.5}
+        - {x: 28.800049, y: -34.5}
+        - {x: 28.800049, y: 24.5}
+        - {x: 23.800049, y: 32.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.43322754, y: 34.5}
+        - {x: -30.433228, y: -0.5}
+        - {x: -30.433228, y: -17.5}
+        - {x: -24.433228, y: -32.5}
+        - {x: -15.433228, y: -34.5}
+        - {x: 27.566772, y: -34.5}
+        - {x: 27.566772, y: 14.5}
+        - {x: 21.566772, y: 34.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.833374, y: 36.5}
+        - {x: -13.166626, y: 36.5}
+        - {x: -25.166626, y: 6.5}
+        - {x: -25.166626, y: -32.5}
+        - {x: -19.166626, y: -34.5}
+        - {x: 4.833374, y: -34.5}
+        - {x: 18.833374, y: -28.5}
+        - {x: 34.833374, y: -9.5}
+        - {x: 34.833374, y: 4.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.100098, y: 36.5}
+        - {x: 1.1000977, y: 36.5}
+        - {x: -16.899902, y: 20.5}
+        - {x: -24.899902, y: -1.5}
+        - {x: -24.899902, y: -26.5}
+        - {x: -11.899902, y: -34.5}
+        - {x: 8.100098, y: -34.5}
+        - {x: 35.100098, y: -19.5}
+        - {x: 35.100098, y: 7.5}
+        - {x: 19.100098, y: 35.5}
+      - - {x: -33.899902, y: -8.5}
+        - {x: -30.899902, y: -7.5}
+        - {x: -30.899902, y: -4.5}
+        - {x: -32.899902, y: -2.5}
+        - {x: -33.899902, y: -2.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.133301, y: 36.5}
+        - {x: -25.1333, y: 1.5}
+        - {x: -25.1333, y: -23.5}
+        - {x: -16.1333, y: -34.5}
+        - {x: 18.8667, y: -34.5}
+        - {x: 35.8667, y: -12.5}
+        - {x: 35.8667, y: 14.5}
+        - {x: 21.8667, y: 36.5}
+      - - {x: -34.1333, y: -8.5}
+        - {x: -31.1333, y: -7.5}
+        - {x: -31.1333, y: -4.5}
+        - {x: -33.1333, y: -2.5}
+        - {x: -34.1333, y: -2.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.366577, y: 36.5}
+        - {x: -25.366577, y: 27.5}
+        - {x: -25.366577, y: -25.5}
+        - {x: -11.366577, y: -34.5}
+        - {x: 15.633423, y: -34.5}
+        - {x: 34.633423, y: -18.5}
+        - {x: 34.633423, y: 6.5}
+        - {x: 20.633423, y: 36.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.900146, y: 36.5}
+        - {x: -2.0998535, y: 36.5}
+        - {x: -18.099854, y: 20.5}
+        - {x: -25.099854, y: 1.5}
+        - {x: -25.099854, y: -26.5}
+        - {x: -15.0998535, y: -34.5}
+        - {x: 7.9001465, y: -34.5}
+        - {x: 25.900146, y: -21.5}
+        - {x: 34.900146, y: -14.5}
+        - {x: 34.900146, y: -0.5}
+      - - {x: -34.099854, y: -8.5}
+        - {x: -31.099854, y: -7.5}
+        - {x: -31.099854, y: -4.5}
+        - {x: -33.099854, y: -2.5}
+        - {x: -34.099854, y: -2.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.166748, y: 36.5}
+        - {x: -11.833252, y: 18.5}
+        - {x: -15.833252, y: -7.5}
+        - {x: -15.833252, y: -32.5}
+        - {x: 23.166748, y: -32.5}
+        - {x: 33.166748, y: -13.5}
+        - {x: 33.166748, y: 36.5}
+      - - {x: -33.833252, y: -8.5}
+        - {x: -30.833252, y: -7.5}
+        - {x: -30.833252, y: -4.5}
+        - {x: -32.833252, y: -2.5}
+        - {x: -33.833252, y: -2.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.933472, y: 33.5}
+        - {x: 25.933472, y: 31.5}
+        - {x: 21.933472, y: 20.5}
+        - {x: 17.933472, y: 10.5}
+        - {x: 17.933472, y: 8.5}
+        - {x: 17.933472, y: 32.5}
+        - {x: 13.933472, y: 36.5}
+        - {x: 1.9334717, y: 36.5}
+        - {x: -13.066528, y: 19.5}
+        - {x: -16.066528, y: 3.5}
+        - {x: -16.066528, y: -32.5}
+        - {x: 18.933472, y: -32.5}
+        - {x: 32.93347, y: -6.5}
+        - {x: 32.93347, y: 32.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.700073, y: 16.5}
+        - {x: 16.700073, y: 10.5}
+        - {x: 16.700073, y: 8.5}
+        - {x: 16.700073, y: 32.5}
+        - {x: 12.700073, y: 36.5}
+        - {x: -2.2999268, y: 36.5}
+        - {x: -17.299927, y: 8.5}
+        - {x: -17.299927, y: -32.5}
+        - {x: 31.700073, y: -32.5}
+        - {x: 31.700073, y: 36.5}
+        - {x: 29.700073, y: 36.5}
+        - {x: 26.700073, y: 34.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.0332031, y: 36.5}
+        - {x: -17.033203, y: 22.5}
+        - {x: -17.033203, y: -32.5}
+        - {x: 20.966797, y: -32.5}
+        - {x: 32.966797, y: -10.5}
+        - {x: 32.966797, y: 36.5}
+    - name: nohood-cape-plate_sprite_walk_strip30 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.233398, y: 36.5}
+        - {x: -4.7666016, y: 36.5}
+        - {x: -15.766602, y: 9.5}
+        - {x: -15.766602, y: -32.5}
+        - {x: 17.233398, y: -32.5}
+        - {x: 28.233398, y: -29.5}
+        - {x: 33.2334, y: 1.5}
+        - {x: 33.2334, y: 35.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

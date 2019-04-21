@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: bbb220f178edfab46a3ced40c62303f8
+timeCreated: 1469438958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nohood-cape-plate_sprite_death_strip47_0
+    21300002: nohood-cape-plate_sprite_death_strip47_1
+    21300004: nohood-cape-plate_sprite_death_strip47_2
+    21300006: nohood-cape-plate_sprite_death_strip47_3
+    21300008: nohood-cape-plate_sprite_death_strip47_4
+    21300010: nohood-cape-plate_sprite_death_strip47_5
+    21300012: nohood-cape-plate_sprite_death_strip47_6
+    21300014: nohood-cape-plate_sprite_death_strip47_7
+    21300016: nohood-cape-plate_sprite_death_strip47_8
+    21300018: nohood-cape-plate_sprite_death_strip47_9
+    21300020: nohood-cape-plate_sprite_death_strip47_10
+    21300022: nohood-cape-plate_sprite_death_strip47_11
+    21300024: nohood-cape-plate_sprite_death_strip47_12
+    21300026: nohood-cape-plate_sprite_death_strip47_13
+    21300028: nohood-cape-plate_sprite_death_strip47_14
+    21300030: nohood-cape-plate_sprite_death_strip47_15
+    21300032: nohood-cape-plate_sprite_death_strip47_16
+    21300034: nohood-cape-plate_sprite_death_strip47_17
+    21300036: nohood-cape-plate_sprite_death_strip47_18
+    21300038: nohood-cape-plate_sprite_death_strip47_19
+    21300040: nohood-cape-plate_sprite_death_strip47_20
+    21300042: nohood-cape-plate_sprite_death_strip47_21
+    21300044: nohood-cape-plate_sprite_death_strip47_22
+    21300046: nohood-cape-plate_sprite_death_strip47_23
+    21300048: nohood-cape-plate_sprite_death_strip47_24
+    21300050: nohood-cape-plate_sprite_death_strip47_25
+    21300052: nohood-cape-plate_sprite_death_strip47_26
+    21300054: nohood-cape-plate_sprite_death_strip47_27
+    21300056: nohood-cape-plate_sprite_death_strip47_28
+    21300058: nohood-cape-plate_sprite_death_strip47_29
+    21300060: nohood-cape-plate_sprite_death_strip47_30
+    21300062: nohood-cape-plate_sprite_death_strip47_31
+    21300064: nohood-cape-plate_sprite_death_strip47_32
+    21300066: nohood-cape-plate_sprite_death_strip47_33
+    21300068: nohood-cape-plate_sprite_death_strip47_34
+    21300070: nohood-cape-plate_sprite_death_strip47_35
+    21300072: nohood-cape-plate_sprite_death_strip47_36
+    21300074: nohood-cape-plate_sprite_death_strip47_37
+    21300076: nohood-cape-plate_sprite_death_strip47_38
+    21300078: nohood-cape-plate_sprite_death_strip47_39
+    21300080: nohood-cape-plate_sprite_death_strip47_40
+    21300082: nohood-cape-plate_sprite_death_strip47_41
+    21300084: nohood-cape-plate_sprite_death_strip47_42
+    21300086: nohood-cape-plate_sprite_death_strip47_43
+    21300088: nohood-cape-plate_sprite_death_strip47_44
+    21300090: nohood-cape-plate_sprite_death_strip47_45
+    21300092: nohood-cape-plate_sprite_death_strip47_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nohood-cape-plate_sprite_death_strip47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 54}
+        - {x: -5, y: 53}
+        - {x: -33, y: -3}
+        - {x: -38, y: -38}
+        - {x: -38, y: -50}
+        - {x: -29, y: -56}
+        - {x: -19, y: -55}
+        - {x: -13, y: -50}
+        - {x: -8, y: -50}
+        - {x: -6, y: -48}
+        - {x: -6, y: -50}
+        - {x: -8, y: -50}
+        - {x: -10, y: -52}
+        - {x: -10, y: -66}
+        - {x: 0, y: -66}
+        - {x: 4, y: -65}
+        - {x: 42, y: -64}
+        - {x: 42, y: 7}
+        - {x: 29, y: 54}
+    - name: nohood-cape-plate_sprite_death_strip47_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 54}
+        - {x: -5, y: 53}
+        - {x: -33, y: -3}
+        - {x: -38, y: -38}
+        - {x: -38, y: -50}
+        - {x: -29, y: -56}
+        - {x: -19, y: -55}
+        - {x: -13, y: -50}
+        - {x: -8, y: -50}
+        - {x: -6, y: -48}
+        - {x: -6, y: -50}
+        - {x: -8, y: -50}
+        - {x: -10, y: -52}
+        - {x: -10, y: -66}
+        - {x: 0, y: -66}
+        - {x: 4, y: -65}
+        - {x: 42, y: -64}
+        - {x: 42, y: 7}
+        - {x: 29, y: 54}
+    - name: nohood-cape-plate_sprite_death_strip47_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 54}
+        - {x: -5, y: 53}
+        - {x: -33, y: -3}
+        - {x: -38, y: -38}
+        - {x: -38, y: -50}
+        - {x: -29, y: -56}
+        - {x: -19, y: -55}
+        - {x: -13, y: -50}
+        - {x: -8, y: -50}
+        - {x: -6, y: -48}
+        - {x: -6, y: -50}
+        - {x: -8, y: -50}
+        - {x: -10, y: -52}
+        - {x: -10, y: -66}
+        - {x: 0, y: -66}
+        - {x: 4, y: -65}
+        - {x: 42, y: -64}
+        - {x: 42, y: 7}
+        - {x: 29, y: 54}
+    - name: nohood-cape-plate_sprite_death_strip47_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 54}
+        - {x: -5, y: 53}
+        - {x: -33, y: -3}
+        - {x: -38, y: -38}
+        - {x: -38, y: -50}
+        - {x: -29, y: -56}
+        - {x: -19, y: -55}
+        - {x: -13, y: -50}
+        - {x: -8, y: -50}
+        - {x: -6, y: -48}
+        - {x: -6, y: -50}
+        - {x: -8, y: -50}
+        - {x: -10, y: -52}
+        - {x: -10, y: -66}
+        - {x: 0, y: -66}
+        - {x: 4, y: -65}
+        - {x: 42, y: -64}
+        - {x: 42, y: 7}
+        - {x: 29, y: 54}
+    - name: nohood-cape-plate_sprite_death_strip47_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -47}
+        - {x: 30, y: -60}
+        - {x: 32, y: -62}
+        - {x: 40, y: -62}
+        - {x: 42, y: -60}
+        - {x: 42, y: -56}
+        - {x: 40, y: -54}
+        - {x: 38, y: -54}
+        - {x: 38, y: -50}
+        - {x: 39, y: -54}
+        - {x: 42, y: -54}
+        - {x: 42, y: -56}
+        - {x: 45, y: -62}
+        - {x: 53, y: -64}
+        - {x: 54, y: -61}
+        - {x: 54, y: 40}
+        - {x: 50, y: 42}
+        - {x: 19, y: 42}
+        - {x: -18, y: -6}
+        - {x: -18, y: -63}
+        - {x: -16, y: -66}
+        - {x: 10, y: -66}
+        - {x: 22, y: -60}
+        - {x: 30, y: -48}
+        - {x: 30, y: -46}
+        - {x: 34, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -47}
+        - {x: 30, y: -60}
+        - {x: 32, y: -62}
+        - {x: 40, y: -62}
+        - {x: 42, y: -60}
+        - {x: 42, y: -56}
+        - {x: 40, y: -54}
+        - {x: 38, y: -54}
+        - {x: 38, y: -50}
+        - {x: 39, y: -54}
+        - {x: 42, y: -54}
+        - {x: 42, y: -56}
+        - {x: 45, y: -62}
+        - {x: 53, y: -64}
+        - {x: 54, y: -61}
+        - {x: 54, y: 40}
+        - {x: 50, y: 42}
+        - {x: 19, y: 42}
+        - {x: -18, y: -6}
+        - {x: -18, y: -63}
+        - {x: -16, y: -66}
+        - {x: 10, y: -66}
+        - {x: 22, y: -60}
+        - {x: 30, y: -48}
+        - {x: 30, y: -46}
+        - {x: 34, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -47}
+        - {x: 30, y: -60}
+        - {x: 32, y: -62}
+        - {x: 40, y: -62}
+        - {x: 42, y: -60}
+        - {x: 42, y: -56}
+        - {x: 40, y: -54}
+        - {x: 38, y: -54}
+        - {x: 38, y: -50}
+        - {x: 39, y: -54}
+        - {x: 42, y: -54}
+        - {x: 42, y: -56}
+        - {x: 45, y: -62}
+        - {x: 53, y: -64}
+        - {x: 54, y: -61}
+        - {x: 54, y: 40}
+        - {x: 50, y: 42}
+        - {x: 19, y: 42}
+        - {x: -18, y: -6}
+        - {x: -18, y: -63}
+        - {x: -16, y: -66}
+        - {x: 10, y: -66}
+        - {x: 22, y: -60}
+        - {x: 30, y: -48}
+        - {x: 30, y: -46}
+        - {x: 34, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -47}
+        - {x: 30, y: -60}
+        - {x: 32, y: -62}
+        - {x: 40, y: -62}
+        - {x: 42, y: -60}
+        - {x: 42, y: -56}
+        - {x: 40, y: -54}
+        - {x: 38, y: -54}
+        - {x: 38, y: -50}
+        - {x: 39, y: -54}
+        - {x: 42, y: -54}
+        - {x: 42, y: -56}
+        - {x: 45, y: -62}
+        - {x: 53, y: -64}
+        - {x: 54, y: -61}
+        - {x: 54, y: 40}
+        - {x: 50, y: 42}
+        - {x: 19, y: 42}
+        - {x: -18, y: -6}
+        - {x: -18, y: -63}
+        - {x: -16, y: -66}
+        - {x: 10, y: -66}
+        - {x: 22, y: -60}
+        - {x: 30, y: -48}
+        - {x: 30, y: -46}
+        - {x: 34, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -47}
+        - {x: 30, y: -60}
+        - {x: 32, y: -62}
+        - {x: 40, y: -62}
+        - {x: 42, y: -60}
+        - {x: 42, y: -56}
+        - {x: 40, y: -54}
+        - {x: 38, y: -54}
+        - {x: 38, y: -50}
+        - {x: 39, y: -54}
+        - {x: 42, y: -54}
+        - {x: 42, y: -56}
+        - {x: 45, y: -62}
+        - {x: 53, y: -64}
+        - {x: 54, y: -61}
+        - {x: 54, y: 40}
+        - {x: 50, y: 42}
+        - {x: 19, y: 42}
+        - {x: -18, y: -6}
+        - {x: -18, y: -63}
+        - {x: -16, y: -66}
+        - {x: 10, y: -66}
+        - {x: 22, y: -60}
+        - {x: 30, y: -48}
+        - {x: 30, y: -46}
+        - {x: 34, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -46}
+        - {x: 34, y: -44}
+        - {x: 34, y: -46}
+        - {x: 32, y: -46}
+        - {x: 30, y: -48}
+        - {x: 30, y: -60}
+        - {x: 31, y: -63}
+        - {x: 43, y: -66}
+        - {x: 53, y: -66}
+        - {x: 61, y: -63}
+        - {x: 64, y: -48}
+        - {x: 64, y: 14}
+        - {x: 7, y: 14}
+        - {x: -18, y: -15}
+        - {x: -18, y: -66}
+        - {x: 6, y: -66}
+        - {x: 10, y: -64}
+        - {x: 28, y: -58}
+        - {x: 30, y: -56}
+        - {x: 30, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -46}
+        - {x: 34, y: -44}
+        - {x: 34, y: -46}
+        - {x: 32, y: -46}
+        - {x: 30, y: -48}
+        - {x: 30, y: -60}
+        - {x: 31, y: -63}
+        - {x: 43, y: -66}
+        - {x: 53, y: -66}
+        - {x: 61, y: -63}
+        - {x: 64, y: -48}
+        - {x: 64, y: 14}
+        - {x: 7, y: 14}
+        - {x: -18, y: -15}
+        - {x: -18, y: -66}
+        - {x: 6, y: -66}
+        - {x: 10, y: -64}
+        - {x: 28, y: -58}
+        - {x: 30, y: -56}
+        - {x: 30, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -46}
+        - {x: 34, y: -44}
+        - {x: 34, y: -46}
+        - {x: 32, y: -46}
+        - {x: 30, y: -48}
+        - {x: 30, y: -60}
+        - {x: 31, y: -63}
+        - {x: 43, y: -66}
+        - {x: 53, y: -66}
+        - {x: 61, y: -63}
+        - {x: 64, y: -48}
+        - {x: 64, y: 14}
+        - {x: 7, y: 14}
+        - {x: -18, y: -15}
+        - {x: -18, y: -66}
+        - {x: 6, y: -66}
+        - {x: 10, y: -64}
+        - {x: 28, y: -58}
+        - {x: 30, y: -56}
+        - {x: 30, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -46}
+        - {x: 34, y: -44}
+        - {x: 34, y: -46}
+        - {x: 32, y: -46}
+        - {x: 30, y: -48}
+        - {x: 30, y: -60}
+        - {x: 31, y: -63}
+        - {x: 43, y: -66}
+        - {x: 53, y: -66}
+        - {x: 61, y: -63}
+        - {x: 64, y: -48}
+        - {x: 64, y: 14}
+        - {x: 7, y: 14}
+        - {x: -18, y: -15}
+        - {x: -18, y: -66}
+        - {x: 6, y: -66}
+        - {x: 10, y: -64}
+        - {x: 28, y: -58}
+        - {x: 30, y: -56}
+        - {x: 30, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -46}
+        - {x: 34, y: -44}
+        - {x: 34, y: -46}
+        - {x: 32, y: -46}
+        - {x: 30, y: -48}
+        - {x: 30, y: -60}
+        - {x: 31, y: -63}
+        - {x: 43, y: -66}
+        - {x: 53, y: -66}
+        - {x: 61, y: -63}
+        - {x: 64, y: -48}
+        - {x: 64, y: 14}
+        - {x: 7, y: 14}
+        - {x: -18, y: -15}
+        - {x: -18, y: -66}
+        - {x: 6, y: -66}
+        - {x: 10, y: -64}
+        - {x: 28, y: -58}
+        - {x: 30, y: -56}
+        - {x: 30, y: -46}
+    - name: nohood-cape-plate_sprite_death_strip47_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -34}
+        - {x: 64, y: 1}
+        - {x: 38, y: 10}
+        - {x: 26, y: 10}
+        - {x: -7, y: -11}
+        - {x: -18, y: -29}
+        - {x: -18, y: -66}
+        - {x: 43, y: -66}
+        - {x: 50, y: -61}
+        - {x: 50, y: -52}
+        - {x: 47, y: -47}
+    - name: nohood-cape-plate_sprite_death_strip47_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 10}
+        - {x: 21, y: 10}
+        - {x: -6, y: -7}
+        - {x: -18, y: -23}
+        - {x: -18, y: -66}
+        - {x: 46, y: -66}
+        - {x: 54, y: -62}
+        - {x: 64, y: -50}
+        - {x: 64, y: 1}
+    - name: nohood-cape-plate_sprite_death_strip47_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -14}
+        - {x: 60, y: -10}
+        - {x: 48, y: -10}
+        - {x: 46, y: -12}
+        - {x: 46, y: -14}
+        - {x: 44, y: -14}
+        - {x: 46, y: -12}
+        - {x: 47, y: -7}
+        - {x: 43, y: 10}
+        - {x: 22, y: 10}
+        - {x: -16, y: -8}
+        - {x: -34, y: -49}
+        - {x: -34, y: -66}
+        - {x: 44, y: -66}
+        - {x: 51, y: -61}
+        - {x: 51, y: -51}
+        - {x: 64, y: -36}
+    - name: nohood-cape-plate_sprite_death_strip47_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -14}
+        - {x: 60, y: -10}
+        - {x: 48, y: -10}
+        - {x: 46, y: -12}
+        - {x: 46, y: -14}
+        - {x: 44, y: -14}
+        - {x: 46, y: -12}
+        - {x: 47, y: -7}
+        - {x: 43, y: 10}
+        - {x: 22, y: 10}
+        - {x: -16, y: -8}
+        - {x: -34, y: -49}
+        - {x: -34, y: -66}
+        - {x: 44, y: -66}
+        - {x: 51, y: -61}
+        - {x: 51, y: -51}
+        - {x: 64, y: -36}
+    - name: nohood-cape-plate_sprite_death_strip47_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -14}
+        - {x: 60, y: -10}
+        - {x: 48, y: -10}
+        - {x: 46, y: -12}
+        - {x: 46, y: -14}
+        - {x: 44, y: -14}
+        - {x: 46, y: -12}
+        - {x: 47, y: -7}
+        - {x: 43, y: 10}
+        - {x: 22, y: 10}
+        - {x: -16, y: -8}
+        - {x: -34, y: -49}
+        - {x: -34, y: -66}
+        - {x: 44, y: -66}
+        - {x: 51, y: -61}
+        - {x: 51, y: -51}
+        - {x: 64, y: -36}
+    - name: nohood-cape-plate_sprite_death_strip47_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -14}
+        - {x: 60, y: -10}
+        - {x: 48, y: -10}
+        - {x: 46, y: -12}
+        - {x: 46, y: -14}
+        - {x: 44, y: -14}
+        - {x: 46, y: -12}
+        - {x: 47, y: -7}
+        - {x: 43, y: 10}
+        - {x: 22, y: 10}
+        - {x: -16, y: -8}
+        - {x: -34, y: -49}
+        - {x: -34, y: -66}
+        - {x: 44, y: -66}
+        - {x: 51, y: -61}
+        - {x: 51, y: -51}
+        - {x: 64, y: -36}
+    - name: nohood-cape-plate_sprite_death_strip47_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -47, y: -31}
+        - {x: -50, y: -44}
+        - {x: -50, y: -66}
+        - {x: 64, y: -66}
+        - {x: 64, y: 10}
+    - name: nohood-cape-plate_sprite_death_strip47_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -47, y: -31}
+        - {x: -50, y: -44}
+        - {x: -50, y: -66}
+        - {x: 64, y: -66}
+        - {x: 64, y: 10}
+    - name: nohood-cape-plate_sprite_death_strip47_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -47, y: -31}
+        - {x: -50, y: -44}
+        - {x: -50, y: -66}
+        - {x: 64, y: -66}
+        - {x: 64, y: 10}
+    - name: nohood-cape-plate_sprite_death_strip47_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -47, y: -31}
+        - {x: -50, y: -44}
+        - {x: -50, y: -66}
+        - {x: 64, y: -66}
+        - {x: 64, y: 10}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
